@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saumyadeep  
 
-### 💻 Software Developer | Backend Enthusiast | AI Explorer  
+### 💻 Software Developer | Backend Enthusiast | AI & Data Explorer
 
 Software developer focused on building scalable, efficient, and maintainable systems — because future me deserves clean code.  
 
@@ -8,12 +8,13 @@ I specialize in designing robust backend architectures and writing production-re
 
 ---
 
-## 🚀 What I Do
+## 🚀 Core Focus
 
-- 🏗️ Design scalable backend systems  
-- ⚡ Optimize performance & database performance  
-- 🧠 Solve complex engineering problems  
-- 🛠️ Build production-ready full-stack applications  
+- 🏗️ Scalable Backend Systems  
+- ⚡ Performance Optimization  
+- 🗄️ Database Design & Query Optimization  
+- 🌐 Full-Stack Application Development  
+- 🤖 Intelligent & Data-Driven Systems  
 
 ---
 
@@ -21,18 +22,28 @@ I specialize in designing robust backend architectures and writing production-re
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 🌐 Frontend & Frameworks
+## 🌐 Frontend & UI
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## ⚛️ JavaScript Ecosystem
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![Bluebird](https://img.shields.io/badge/Bluebird-1E90FF?style=for-the-badge)
 
 ---
 
@@ -55,11 +66,11 @@ I specialize in designing robust backend architectures and writing production-re
 
 ## 🧠 Currently Exploring
 
-- 🤖 Machine Learning  
-- 🧠 Deep Learning  
-- 🪄 Prompt Engineering  
-- 📊 Advanced Data Visualization  
-- ⚙️ Building intelligent backend systems  
+- Machine Learning  
+- Deep Learning  
+- Prompt Engineering  
+- Advanced Data Visualization  
+- Intelligent Backend Architectures  
 
 Teaching machines to think — while continuing to pretend my first solution was intentional.
 

@@ -42,7 +42,8 @@ const saumyadeep = {
     "Intelligent Backend Architectures",
   ],
   otherLife   : "Photographer. Storyteller.",
-  offTheClock : "Some problems are solved in code. Others on open roads.",
+  offTheClock : "Some problems are solved in code.
+                 Others on open roads.",
   philosophy  : "Future me deserves clean code.",
 };
 ```

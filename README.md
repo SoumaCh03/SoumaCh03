@@ -41,7 +41,8 @@ const saumyadeep = {
     "LLM Integration",
     "Intelligent Backend Architectures",
   ],
-  otherLife   : "Photographer. Storyteller. Nikon D7500 owner.",
+  otherLife   : "Photographer. Storyteller.",
+  offTheClock : "Some problems are solved in code. Others on open roads.",
   philosophy  : "Future me deserves clean code.",
 };
 ```

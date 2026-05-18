@@ -60,13 +60,14 @@ const saumyadeep = {
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saumyadeep%20Chakraborty-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saumyadeep-c-34342a177/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saumyadeep-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saumyadeep-c-34342a177/)
 [![Instagram](https://img.shields.io/badge/Instagram-Add%20Soon-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saumyanach03@gmail.com)
 
-[![Email](https://img.shields.io/badge/Email-saumyanach03%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saumyanach03@gmail.com)
+<br/>
 
-[![Zoho Mail](https://img.shields.io/badge/Zoho-saumyadeephere%40zohomail.in-C8202F?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:saumyadeephere@zohomail.in)
+[![Zoho Mail](https://img.shields.io/badge/Zoho%20Mail-Professional-C8202F?style=for-the-badge&logo=zoho&logoColor=white)](mailto:saumyadeephere@zohomail.in)
+
 </div>
 
 ---

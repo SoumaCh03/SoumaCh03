@@ -54,18 +54,19 @@ const saumyadeep = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-techysaumyadeep.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://techysaumyadeep.vercel.app/)
-[![Photography](https://img.shields.io/badge/Photography-snappysaumya.vercel.app-E11D48?style=for-the-badge&logo=googlephotos&logoColor=white)](https://snappysaumya.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-SoumaCh03-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SoumaCh03)
+[![Facebook](https://img.shields.io/badge/Facebook-SaumyanaCh03-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/SaumyanaCh03/)
+[![X / Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-ImSaumyaCh-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ImSaumyaCh)
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-SoumaCh03-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SoumaCh03)
-[![Facebook](https://img.shields.io/badge/Facebook-ImSaumyaCh-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ImSaumyaCh)
-[![X / Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-SaumyanaCh03-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SaumyanaCh03)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20Soon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-Add%20Soon-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Add%20Soon-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saumyadeep%20Chakraborty-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saumyadeep-c-34342a177/)
 
+[![Instagram](https://img.shields.io/badge/Instagram-Add%20Soon-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+
+[![Email](https://img.shields.io/badge/Email-saumyanach03%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saumyanach03@gmail.com)
+
+[![Zoho Mail](https://img.shields.io/badge/Zoho-saumyadeephere%40zohomail.in-C8202F?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:saumyadeephere@zohomail.in)
 </div>
 
 ---
@@ -217,14 +218,15 @@ My photography portfolio isn't just a creative outlet — it's a fully engineere
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SoumaCh03&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&count_private=true" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumaCh03&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff&langs_count=8" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SoumaCh03&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&count_private=true&cache_seconds=1800" height="175"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumaCh03&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff&langs_count=8&cache_seconds=1800" height="175"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SoumaCh03&theme=midnight-purple&hide_border=true&background=0d1117&ring=7C3AED&fire=E11D48&currStreakLabel=7C3AED" width="68%"/>
+<img src="https://streak-stats.demolab.com?user=SoumaCh03&theme=midnight-purple&hide_border=true&background=0d1117&ring=7C3AED&fire=E11D48&currStreakLabel=7C3AED" width="68%"/>
 
 </div>
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Saumyadeep%20Chakraborty&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=TechySaumya%20%E2%80%94%20Full%20Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20Photographer&descSize=15&descAlignY=58&descColor=a0aec0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?<img src="https://github-readme-stats.vercel.app/api?username=SoumaCh03&show_iconstype=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Saumyadeep%20Chakraborty&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=TechySaumya%20%E2%80%94%20Full%20Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20Photographer&descSize=15&descAlignY=58&descColor=a0aec0&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -219,9 +219,9 @@ My photography portfolio isn't just a creative outlet — it's a fully engineere
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SoumaCh03&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&count_private=true&cache_seconds=1800" height="175"/>
+<img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SoumaCh03&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&count_private=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumaCh03&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff&langs_count=8&cache_seconds=1800" height="175"/>
+<img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SoumaCh03&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff&langs_count=8"/>
 
 </div>
 

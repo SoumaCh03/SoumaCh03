@@ -30,21 +30,18 @@ const saumyadeep = {
     "MERN Stack Applications",
     "AI / ML Integration",
     "Technical SEO & Performance",
-    "Premium UI/UX with Motion Design",
   ],
   websites: {
     portfolio   : "techysaumyadeep.vercel.app",
     photography : "snappysaumya.vercel.app",
-    ecommerce   : "autocraft-shop.vercel.app",
   },
   currentlyExploring : [
     "Deep Learning",
     "Prompt Engineering",
     "LLM Integration",
     "Intelligent Backend Architectures",
-    "Advanced Motion Design Systems",
   ],
-  otherLife   : "Photographer. Storyteller. Rider.",
+  otherLife   : "Photographer. Storyteller.",
   offTheClock : "Some problems are solved in code. Others on open roads.",
   philosophy  : "Future me deserves clean code.",
 };
@@ -65,7 +62,7 @@ const saumyadeep = {
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saumyadeep-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saumyadeep-c-34342a177/)
-[![Instagram](https://img.shields.io/badge/Instagram-snappysaumya-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-Add%20Soon-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saumyanach03@gmail.com)
 
 <br/>
@@ -105,14 +102,12 @@ const saumyadeep = {
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![ShadCN/UI](https://img.shields.io/badge/ShadCN/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 </div>
 
@@ -123,7 +118,6 @@ const saumyadeep = {
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Bluebird](https://img.shields.io/badge/Bluebird-1E90FF?style=for-the-badge&logoColor=white)
-![JWT Auth](https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
 </div>
 
@@ -133,7 +127,6 @@ const saumyadeep = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
 
@@ -146,7 +139,6 @@ const saumyadeep = {
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-5433FF?style=for-the-badge&logo=stripe&logoColor=white)
 ![EmailJS](https://img.shields.io/badge/EmailJS-F0B429?style=for-the-badge&logoColor=black)
 
 </div>
@@ -158,7 +150,6 @@ const saumyadeep = {
 ![Technical SEO](https://img.shields.io/badge/Technical%20SEO-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Structured Data](https://img.shields.io/badge/Structured%20Data-0F9D58?style=for-the-badge&logoColor=white)
 ![Performance Optimization](https://img.shields.io/badge/Performance%20Optimization-FF6D00?style=for-the-badge&logoColor=white)
-![Core Web Vitals](https://img.shields.io/badge/Core%20Web%20Vitals-34A853?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -177,86 +168,50 @@ const saumyadeep = {
 
 ## 🏆 Featured Projects
 
-### 🌟 **Currently Building: TechySaumya v2** (Phase 9 Complete ✅)
-
 <div align="center">
 
-| Phase | Status | Focus | Achievement |
-|:---:|:---:|:---|:---:|
-| **Phase 1-3** | ✅ Complete | Setup, Design System, Navigation | Foundation built, architecture solid |
-| **Phase 4-8** | ✅ Complete | Home, About, Projects, Photography, Contact | All content pages + forms functional |
-| **Phase 9** | ✅ Complete | **Polish & Optimization** | **Lighthouse 95+, Animations perfected, Core Web Vitals Green** |
-| **Phase 10** | ⏳ In Progress | SEO & Final Metadata | Schema markup, dynamic metadata, sitemap generation |
-
-**Current**: Polished, animated, premium dark aesthetic portfolio with 50+ custom components, ShadCN/UI integration, Framer Motion animations, and 90+ Lighthouse scores across all pages.
-
-**Stack**: Next.js 14 • Tailwind CSS • Framer Motion • Lenis Scroll • ShadCN/UI • TypeScript • Vercel
-
-**Status**: Performance-optimized, accessibility-compliant (WCAG AA), mobile-first responsive design, premium animations respecting prefers-reduced-motion.
-
-→ [techysaumyadeep.vercel.app](https://techysaumyadeep.vercel.app/) **(Live — Phase 9 Complete)**
+| Project | Description | Stack | Live |
+|:---|:---|:---|:---:|
+| **🌐 TechySaumya Portfolio** | Personal portfolio — SEO-optimised, performance-tuned, production-deployed | React · Vite · Tailwind · EmailJS · Vercel | [→ Visit](https://techysaumyadeep.vercel.app/) |
+| **📷 SnappySaumya Photography** | Photography portfolio with visual storytelling & cinematic presentation | React · Vite · Tailwind · Cloudinary · Vercel | [→ Visit](https://snappysaumya.vercel.app/) |
+| **🚗 AUTOCRAFT** | Production-grade premium MERN e-commerce platform featuring authentication, JWT security, wishlist, COD, Razorpay integration, admin dashboard, order lifecycle, notification system, premium cursor engine, responsive UX, scalable backend architecture & deployment | MongoDB · Express · React · Node.js · JWT · Razorpay · Render · Vercel | ✅ Live |
+| **🌐 TechySaumya v2** | Advanced developer portfolio built with premium UI/UX, SEO engineering, responsive architecture, EmailJS integration, accessibility improvements, structured data, Lighthouse optimisation & production-ready engineering (Phase 9 Completed) | React · Vite · Tailwind · Framer Motion · EmailJS · Vercel | 🚧 In Progress |
 
 </div>
 
 ---
 
-### 🛒 **AUTOCRAFT — Premium E-Commerce Platform** (Production Deployed ✅)
+## 📷 Beyond the Terminal — SnappySaumya
 
 <div align="center">
 
-**The Story**: Built a **super premium MERN e-commerce platform** from zero to production. Designed every pixel, wrote every line, deployed to production.
-
-**What Makes It Special**:
-- 🎨 **Premium Dark Aesthetic** with cinematic UI/UX
-- 🔐 **Complete Authentication System** with JWT, refresh tokens, role-based access
-- 📦 **Full E-Commerce Suite**: Products, categories, cart, wishlist, checkout
-- 💳 **Stripe Payment Integration** for secure transactions
-- 🔍 **Advanced Search & Filtering** with real-time product discovery
-- 📊 **Admin Dashboard** for inventory, order, and user management
-- 🖼️ **Cloudinary Integration** for optimized image delivery
-- ⚡ **Optimized Performance** with lazy loading, code splitting, caching
-- 📱 **Mobile-First Responsive** design (tested across devices)
-- 🔒 **Security-First**: Secure headers, input validation, rate limiting
-- 🌐 **SEO-Optimized**: Structured data, meta tags, sitemap
-- 📈 **Production-Ready**: Error handling, logging, monitoring
-
-**Tech Stack**:
-- **Frontend**: React • Vite • Tailwind CSS • Framer Motion • Axios
-- **Backend**: Node.js • Express.js • MongoDB • JWT • Cloudinary • Stripe API
-- **Deployment**: Vercel (Frontend) • Render (Backend)
-- **Database**: MongoDB Atlas (cloud)
-
-**Highlights**:
-✅ Complete auth flow (signup, login, password reset, JWT refresh)  
-✅ Product management (CRUD operations, image optimization)  
-✅ Shopping cart with persistent state management  
-✅ Wishlist functionality with heart animations  
-✅ Secure checkout with Stripe integration  
-✅ Order history and tracking  
-✅ Admin controls for business operations  
-✅ Responsive design (390px → 1920px+)  
-✅ Lighthouse Performance: 85+  
-✅ Zero console errors in production  
-
-→ [autocraft-shop.vercel.app](https://autocraft-shop.vercel.app/) **(Live — Production Deployed)**
+> *"Code builds systems. Photography captures moments. Neither can replicate the other."*
 
 </div>
 
+I shoot travel, street, and cinematic photography with a **Nikon D7500** — chasing light the same way I chase clean architecture: deliberately, patiently, and with an eye for what most people walk past.
+
+My photography portfolio isn't just a creative outlet — it's a fully engineered, SEO-optimised, production-deployed application I designed and built myself, end to end.
+
+**→** [snappysaumya.vercel.app](https://snappysaumya.vercel.app/)
+
 ---
 
-### 📷 **SnappySaumya Photography** (Fully Engineered & Deployed ✅)
+## 🧠 Currently Exploring
 
 <div align="center">
 
-**A photography portfolio that's also a fully engineered web application.**
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  🤖  Machine Learning & Deep Learning Fundamentals           ║
+║  🧬  Neural Network Architectures                            ║
+║  🎯  Prompt Engineering & LLM Integration                    ║
+║  📊  Advanced Data Visualization Techniques                  ║
+║  🏛️  Intelligent & AI-Augmented Backend Architectures        ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-Photography with cinematic presentation — every image tells a story, every interaction feels premium.
-
-Built with: React • Vite • Tailwind CSS • Cloudinary • Vercel
-
-Features storytelling, location tagging, responsive gallery grid, optimized image delivery, and production-grade performance.
-
-→ [snappysaumya.vercel.app](https://snappysaumya.vercel.app/) **(Live — Personal Photography)**
+*Teaching machines to think — while still pretending my first solution was intentional.*
 
 </div>
 
@@ -286,93 +241,23 @@ Features storytelling, location tagging, responsive gallery grid, optimized imag
 
 ---
 
-## 🧠 Currently Exploring
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  🤖  Machine Learning & Deep Learning Fundamentals           ║
-║  🧬  Neural Network Architectures                            ║
-║  🎯  Prompt Engineering & LLM Integration                    ║
-║  📊  Advanced Data Visualization Techniques                  ║
-║  🏛️  Intelligent & AI-Augmented Backend Architectures        ║
-║  ✨  Advanced Motion Design & Interactive Experiences        ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-*Teaching machines to think — while maintaining the illusion that my first solution was intentional.*
-
-</div>
-
----
-
-## 💡 What I've Learned Building Autocraft & TechySaumya v2
-
-<div align="center">
-
-> **"Building production-grade applications teaches you things no tutorial can."**
-
-From **Autocraft**, I learned:
-- Secure authentication flows aren't optional—they're foundational
-- Payment integration requires obsessive attention to security
-- User experience in e-commerce is 80% search & discovery, 20% checkout
-- Performance optimization is a discipline, not an afterthought
-
-From **TechySaumya v2**, I learned:
-- Premiumness comes from consistency in motion and spacing, not flashiness
-- SEO isn't a footnote—it's architected into the foundation
-- Lighthouse 95+ requires obsessive detail at every layer
-- Respecting `prefers-reduced-motion` is accessibility + good UX
-
-**The Pattern**: The applications I build don't just function—they teach you how thoughtful engineering compounds.
-
-</div>
-
----
-
 ## ☕ Developer Philosophy
 
 <div align="center">
 
 > *"Scalable by design. Maintainable by discipline. Readable by necessity."*
 >
-> *"Some problems are solved in code. Others on two wheels."*
->
-> *"Future me deserves clean code, and users deserve premium experiences."*
+> *Turning coffee into reliable systems — occasionally even on the first try.*
 
 **Clean architecture isn't perfectionism. It's professionalism.**
 
-**Premium UI isn't decoration. It's communication.**
-
-**Performance optimization isn't optional. It's respect for your user's time.**
-
-</div>
-
----
-
-## 🎯 What's Next
-
-<div align="center">
-
-✅ TechySaumya v2: Phase 9 (Polish) — Complete  
-⏳ TechySaumya v2: Phase 10 (SEO & Final Polish) — In Progress  
-🚀 AUTOCRAFT: Live in production with real users  
-📸 SnappySaumya: Growing photography collection  
-
-🔮 **Upcoming**:
-- Phase 10 launch (final SEO optimization & metadata)
-- Advanced backend features for Autocraft
-- AI-powered product recommendations (ML integration)
-- Photography → Video storytelling
-
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=footer&text=Building%20the%20Future%2C%20One%20Clean%20Line%20at%20a%20Time&fontSize=18&fontColor=a0aec0&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=footer&text=Let's%20Build%20Something%20Remarkable&fontSize=20&fontColor=a0aec0&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
 

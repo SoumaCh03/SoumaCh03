@@ -32,7 +32,7 @@ const saumyadeep = {
     "Technical SEO & Performance",
   ],
   websites: {
-    portfolio   : "techysaumyadeep.vercel.app",
+    portfolio   : "saumyadeepch.vercel.app",
     photography : "snappysaumya.vercel.app",
   },
   currentlyExploring : [

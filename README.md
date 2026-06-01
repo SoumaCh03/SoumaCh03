@@ -32,7 +32,7 @@ const saumyadeep = {
     "Technical SEO & Performance",
   ],
   websites: {
-    portfolio   : "saumyadeepch.vercel.app",
+    portfolio   : "saumyadeep.co.in",
     photography : "snappysaumya.vercel.app",
   },
   currentlyExploring : [
@@ -176,7 +176,7 @@ const saumyadeep = {
 | **📷 SnappySaumya Photography** | Photography portfolio with visual storytelling & cinematic presentation | React · Vite · Tailwind · Cloudinary · Vercel | [→ Visit](https://snappysaumya.vercel.app/) |
 | **🤖 WAXWING AI Bot** | Deployed AI-powered Telegram assistant featuring conversational workflows, automation, intelligent responses, and real-world bot deployment for practical user interactions | Python · Telegram Bot API · AI Integration · APIs · Cloud Deployment | [→ Visit](https://t.me/WaxWing_Rider_helper_bot) |
 | **🚗 AUTOCRAFT** | Production-grade premium MERN e-commerce platform featuring authentication, JWT security, wishlist, COD, Razorpay integration, admin dashboard, order lifecycle, notification system, premium cursor engine, responsive UX, scalable backend architecture & deployment | MongoDB · Express · React · Node.js · JWT · Razorpay · Render · Vercel | ✅ Live |
-| **🌐 TechySaumya v2** | Advanced developer portfolio built with premium UI/UX, SEO engineering, responsive architecture, EmailJS integration, accessibility improvements, structured data, Lighthouse optimisation & production-ready engineering (Phase 9 Completed) |  Next.js 14 · TypeScript · Tailwind CSS · Framer Motion · Lenis · ShadCN/UI · Lucide React · Vercel | [→ Visit](https://saumyadeepch.vercel.app) |
+| **🌐 TechySaumya v2** | Advanced developer portfolio built with premium UI/UX, SEO engineering, responsive architecture, EmailJS integration, accessibility improvements, structured data, Lighthouse optimisation & production-ready engineering (Phase 9 Completed) |  Next.js 14 · TypeScript · Tailwind CSS · Framer Motion · Lenis · ShadCN/UI · Lucide React · Vercel | [→ Visit](https://saumyadeep.co.in) |
 
 </div>
 

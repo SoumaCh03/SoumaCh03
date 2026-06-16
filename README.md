@@ -172,7 +172,7 @@ const saumyadeep = {
 
 | Project | Description | Stack | Live |
 |:---|:---|:---|:---:|
-| **🌐 TechySaumya Portfolio** | Personal portfolio — SEO-optimised, performance-tuned, production-deployed | React · Vite · Tailwind · EmailJS · Vercel | Deployed✅ |
+| **🌐 TechySaumya Portfolio** | Personal portfolio — SEO-optimised, performance-tuned, production-deployed | React · Vite · Tailwind · EmailJS · Vercel | [→ Visit](https://techysaumyadeep.vercel.app/) |
 | **📷 SnappySaumya Photography** | Photography portfolio with visual storytelling & cinematic presentation | React · Vite · Tailwind · Cloudinary · Vercel | Deployed✅ |
 | **🤖 WAXWING AI Bot** | Deployed AI-powered Telegram assistant featuring conversational workflows, automation, intelligent responses, and real-world bot deployment for practical user interactions | Python · Telegram Bot API · AI Integration · APIs · Cloud Deployment | [→ Visit](https://t.me/WaxWing_Rider_helper_bot) |
 | **🚗 AUTOCRAFT** | Production-grade premium MERN e-commerce platform featuring authentication, JWT security, wishlist, COD, Razorpay integration, admin dashboard, order lifecycle, notification system, premium cursor engine, responsive UX, scalable backend architecture & deployment | MongoDB · Express · React · Node.js · JWT · Razorpay · Render · Vercel | [→ Visit](https://autocraftcob.vercel.app) |
